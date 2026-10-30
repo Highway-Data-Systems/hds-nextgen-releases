@@ -1,13 +1,12 @@
-
 {
   "schema": 1,
   "channel": "stable",
-  "nextgen": "1.5.23",
+  "nextgen": "1.5.29",
   "components": {
-    "scripts": "1.5.23",
-    "web": "1.5.23",
-    "services": "1.5.23",
-    "installer": "1.5.23",
-    "android": "1.0.2"
+    "scripts": "1.5.29",
+    "web": "1.5.29",
+    "services": "1.5.29",
+    "installer": "1.5.29",
+    "android": "1.1.4"
   }
 }
