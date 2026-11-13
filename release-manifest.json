@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "channel": "stable",
-  "nextgen": "1.5.30",
+  "release": "1.5.30",
   "components": {
     "scripts": "1.5.30",
     "web": "1.5.30",
