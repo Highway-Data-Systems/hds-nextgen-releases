@@ -1,23 +1,23 @@
 {
   "schema": 1,
   "channel": "stable",
-  "release": "1.6.5",
+  "release": "1.6.6",
   "components": {
-    "scripts": "1.6.5",
-    "web": "1.6.5",
-    "services": "1.6.5",
-    "camera": "1.6.5",
-    "installer": "1.6.5",
+    "scripts": "1.6.6",
+    "web": "1.6.6",
+    "services": "1.6.6",
+    "camera": "1.6.6",
+    "installer": "1.6.6",
     "android": "1.2.0"
   },
   "artifacts": {
-    "hds-nextgen-v1.6.5.run": {
-      "sha256": "3713985435885aa0f56ff9bb5b98aab69c4b9d294f9effeff107747102fe5773",
-      "size": 37327721
-    },
     "hds-display-android-v1.2.0.apk": {
       "sha256": "a4b2cb3c2c722241502875ff9e8d4a1cad72e41706903ce164e96f9756e2628e",
       "size": 74341
+    },
+    "hds-nextgen-v1.6.6.run": {
+      "sha256": "a3eb03c4cf3c2ed84ebfc501590c6d4ac49eeafd2dbcb94d4d877a4f53fbd0d4",
+      "size": 37327719
     }
   }
 }
